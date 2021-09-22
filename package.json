@@ -28,24 +28,24 @@
     "lodash.template": "^4.5.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.13.10",
-    "@babel/preset-env": "^7.13.10",
-    "@commitlint/cli": "^12.0.1",
-    "@commitlint/config-conventional": "^12.0.1",
+    "@babel/core": "^7.15.5",
+    "@babel/preset-env": "^7.15.6",
+    "@commitlint/cli": "^12.1.4",
+    "@commitlint/config-conventional": "^12.1.4",
     "@nuxt/test-utils": "^0.2.2",
-    "@nuxt/types": "^2.15.3",
-    "@nuxtjs/eslint-config": "^6.0.0",
-    "@nuxtjs/svg": "^0.1.12",
+    "@nuxt/types": "^2.15.8",
+    "@nuxtjs/eslint-config": "^6.0.1",
+    "@nuxtjs/svg": "^0.2.0",
     "babel-eslint": "latest",
-    "babel-jest": "^27.0.2",
-    "eslint": "^7.21.0",
+    "babel-jest": "^27.2.1",
+    "eslint": "^7.32.0",
     "husky": "latest",
-    "jest": "^27.0.4",
-    "nuxt": "^2.15.3",
-    "rollup": "^2.41.0",
+    "jest": "^27.2.1",
+    "nuxt": "^2.15.8",
+    "rollup": "^2.57.0",
     "rollup-plugin-babel": "latest",
     "rollup-plugin-terser": "^7.0.2",
-    "standard-version": "^9.1.1"
+    "standard-version": "^9.3.1"
   },
   "publishConfig": {
     "access": "public"
