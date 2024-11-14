@@ -30,6 +30,6 @@ jobs:
       - name: Build project
         run: pnpm run prepack
       - name: Coverage
-        uses: codecov/codecov-action@v4
+        uses: codecov/codecov-action@v5
         env:
           CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}
