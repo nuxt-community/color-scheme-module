@@ -18,6 +18,7 @@ const DEFAULTS: ModuleOptions = {
   dataValue: '',
   storageKey: 'nuxt-color-mode',
   storage: 'localStorage',
+  cookieAttrs: {},
   disableTransition: false,
 }
 
@@ -178,6 +179,10 @@ export interface ModuleOptions {
    * @default `localStorage`
    */
   storage?: ColorModeStorage
+  /**
+   * Storage cookie's attributes
+   */
+  cookieAttrs?: object
   /**
    * The script that will be injected into the head of the page
    */
