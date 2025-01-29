@@ -5,7 +5,7 @@
     "@nuxt/icon": "^1.5.6",
     "@nuxtjs/color-mode": "latest",
     "@nuxtjs/tailwindcss": "^6.12.2",
-    "nuxt": "^3.13.2"
+    "nuxt": "^3.15.4"
   },
   "scripts": {
     "dev": "nuxi dev",
