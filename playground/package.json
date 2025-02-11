@@ -2,9 +2,9 @@
   "name": "color-mode-playground",
   "private": true,
   "dependencies": {
-    "@nuxt/icon": "^1.5.6",
+    "@nuxt/icon": "^1.10.3",
     "@nuxtjs/color-mode": "latest",
-    "@nuxtjs/tailwindcss": "^6.12.2",
+    "@nuxtjs/tailwindcss": "^6.13.1",
     "nuxt": "^3.13.2"
   },
   "scripts": {
